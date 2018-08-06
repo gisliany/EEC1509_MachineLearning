@@ -1,1 +1,4 @@
-# EEC1509_MachineLearning
+# EEC1509 - MachineLearning
+
+- Lesson #1
+    - Motivation, outline
