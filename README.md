@@ -5,3 +5,10 @@
 - Lesson #2
 	- Development platform
 	- Numpy vs Pandas
+- Lesson #3
+        - Key definitions
+        - Types of Machine Learning
+        - Machine Learning Workflow
+        - Main challenges
+        - End-to-end ML project
+    
