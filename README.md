@@ -6,11 +6,11 @@
 	- Development platform
 	- Numpy vs Pandas
 - Lesson #3
-        - Key definitions
-        - Types of Machine Learning
-        - Machine Learning Workflow
-        - Main challenges
-        - End-to-end ML project example
+	- Key definitions
+	- Types of Machine Learning
+	- Machine Learning Workflow
+	- Main challenges
+	- End-to-end ML project example
 	- End-to-end ML project exercise (Solar Radiation Prediction)
 - Lesson #4
 	- Linear Regression (one variable)
