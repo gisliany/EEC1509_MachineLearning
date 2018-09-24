@@ -17,3 +17,6 @@
 	- Gradient descent
 	- Refresher on linear algebra concepts
     
+- Lesson #5
+	- Linear Regresion (multiple variables)
+	- Exercises
