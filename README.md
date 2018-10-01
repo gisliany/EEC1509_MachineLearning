@@ -6,11 +6,11 @@
 	- Development platform
 	- Numpy vs Pandas
 - Lesson #3
-        - Key definitions
-        - Types of Machine Learning
-        - Machine Learning Workflow
-        - Main challenges
-        - End-to-end ML project
+	- Key definitions
+	- Types of Machine Learning
+	- Machine Learning Workflow
+	- Main challenges
+	- End-to-end ML project
 - Lesson #4
 	- Linear Regression (one variable)
 	- Cost function
@@ -20,3 +20,8 @@
 - Lesson #5
 	- Linear Regresion (multiple variables)
 	- Exercises
+- Lesson #6
+	- Univariate KNN
+	- Multivariate KNN
+	- Hyperparameter Optimization
+	- Cross-Validation
