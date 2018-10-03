@@ -21,3 +21,8 @@
 - Lesson #5
 	- Linear Regresion (multiple variables)
 	- Exercises
+- Lesson #6
+	- Univariate KNN
+	- Multivariate KNN
+	- Hyperparameter Optimization
+	- Cross-Validation
