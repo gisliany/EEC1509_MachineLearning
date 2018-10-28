@@ -32,5 +32,9 @@
 	- Cost Function 
 	- Multiclass Classification
 	- Regularization
+- Lesson #08
+	- Clustering Basic
+	- K-Means
+	- Case study: senators votes, nba
 
 
