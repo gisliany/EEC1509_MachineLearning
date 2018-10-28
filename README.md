@@ -26,3 +26,12 @@
 	- Multivariate KNN
 	- Hyperparameter Optimization
 	- Cross-Validation
+- Lesson #07
+	- Classification problem using Logistic Regression
+	- Binary Classification
+	- Decision Boundary
+	- Cost Function 
+	- Multiclass Classification
+	- Regularization
+
+
